@@ -1,4 +1,4 @@
-# samrt_agriculture_initiative
+# Smart Agriculture Initiative
 A field prototype depicting the use of hardware devices
 The intentions of the prototype is to ease the efforts of a farmer by
 looking over the his field and keeping an eye on environment, 
